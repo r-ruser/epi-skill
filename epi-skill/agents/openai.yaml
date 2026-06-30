@@ -1,0 +1,4 @@
+interface:
+  display_name: "Epi Skill"
+  short_description: "Research methods for epidemiology and biostatistics"
+  default_prompt: "Use $epi-skill to design and audit an epidemiology or medical statistics study."
