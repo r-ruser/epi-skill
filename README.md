@@ -136,49 +136,7 @@ references\causal-inference.md
 
 ## 来源
 
-Biostatistics & Epidemiology UWorld Notes Step 2
 
-Bernard Rosner, Fundamentals of Biostatistics
-
-Aviva Petrie & Caroline Sabin, Medical Statistics at a Glance, 4th ed.
-
-Lash, VanderWeele, Haneuse & Rothman, Modern Epidemiology, 4th ed.
-
-Andy Hector, The New Statistics with R: An Introduction for Biologists
-
-Pearl & Mackenzie, The Book of Why
-
-Hernan & Robins, Causal Inference: What If, 2025 draft
-
-Van Calster et al. 2025, predictive AI model performance measures
-
-Efthimiou et al. 2024, clinical prediction model step-by-step guide
-
-Mansournia & Nazemipour 2024, accurate reporting in medical research statistics
-
-Moccia et al. 2024, machine learning in causal inference for epidemiology
-
-Collins et al. 2024, TRIPOD+AI statement for reporting clinical prediction models
-
-Efthimiou et al. 2024, developing clinical prediction models
-
-Collins et al. 2024, evaluation of clinical prediction models, part 1
-
-Riley et al. 2024, evaluation of clinical prediction models, part 2
-
-Collins & Moons 2019, reporting of artificial intelligence prediction models
-
-Mansournia & Nazemipour 2024, recommendations for accurate reporting in medical research statistics
-
-Moor et al. 2023, foundation models for generalist medical artificial intelligence
-
-Obermeyer et al. 2019, racial bias in an algorithm used to manage population health
-
-Mork et al. 2024, policy-induced air pollution health disparities
-
-Rood, Hupalowska & Regev 2024, Perturbation Cell and Tissue Atlas for causal cell and tissue biology
-
-Fahrner, Chen, Topol & Rajpurkar 2025, the generative era of medical AI
 
 ## 典型调用
 
